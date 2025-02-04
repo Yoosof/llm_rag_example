@@ -1,0 +1,11 @@
+faiss-cpu==1.10.0
+huggingface-hub==0.28.1
+langchain==0.3.17
+langchain-community==0.3.16
+langchain-core==0.3.33
+langchain-huggingface==0.1.2
+langchain-ollama==0.2.3
+langchain-text-splitters==0.3.5
+ollama==0.4.7
+pdfminer.six==20240706
+sentence-transformers==3.4.1
